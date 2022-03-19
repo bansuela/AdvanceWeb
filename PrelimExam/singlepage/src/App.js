@@ -1,7 +1,6 @@
 import React from 'react';
 import { Switch,Route } from 'react-router-dom'; 
 import Home from './Component/Home'; 
-
 import Contact from './Component/Contact'; 
 import Services from './Component/Services'; 
 import Error from './Component/Error'; 
