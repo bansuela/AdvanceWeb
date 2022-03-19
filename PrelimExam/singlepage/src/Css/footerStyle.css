@@ -1,0 +1,22 @@
+footer{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    width: 100%;
+    padding:.5em;
+
+}
+.logocontainers{
+     width: 200px;
+    padding: .5em 0;
+    margin-left: -140px;
+}
+.logocontainers1{
+      width: 190px;
+    padding: .5em 0;   
+}
+.logo1{
+width: 80px;
+    padding: .5em 0;
+    margin-left: 80px;
+}
