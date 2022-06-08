@@ -1,9 +1,9 @@
 :root{
-    --mainColor:#000;
+    --mainColor:rgb(255, 255, 255);
     height: 100%;
 }
 header{
-    background-color: var(--mainColor);
+    background-color: black;
 }
 .container{
     width: 100%;
